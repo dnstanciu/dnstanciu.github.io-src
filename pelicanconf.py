@@ -25,10 +25,19 @@ DEFAULT_LANG = u'en'
 
 PATH = 'content'
 
+#######################
+### Static homepage ###
+#######################
+# found in content/pages/home.md
+# Uncomment the 2 liens below to use a static page as home page
+INDEX_SAVE_AS = 'blog/index.html'
+LINKS = (('blog', 'http://dragosstanciu.com/blog/'),) # add link to blog
+
 # Set article URL
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{slug}/index.html'
 
+# Set page URL
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
@@ -94,11 +103,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/dragosstanciu'),
