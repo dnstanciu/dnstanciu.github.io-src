@@ -4,4 +4,4 @@ save_as: index.html
 
 <!-- homepage as url='' -->
 
-Thanks for visiting.
+Find a little [about]({filename}about.md) me or check out my [GitHub]({filename}github.md) projects.

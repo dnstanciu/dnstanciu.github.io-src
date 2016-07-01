@@ -1,4 +1,4 @@
 Title: Contact
 Slug: contact
 
-Email: dstanciu{at}ethz.ch
+Email: dragos.n.stanciu{at}gmail.com

@@ -15,7 +15,7 @@ SITEURL = ''
 SITETITLE = AUTHOR
 SITESUBTITLE = u'PhD student'
 SITEDESCRIPTION = u'Dragos Stanciu\'s website'
-SITELOGO = u'http://dragosstanciu.com/images/profile.png'
+SITELOGO = u'/images/profile.png'
 MAIN_MENU = True
 
 # Times and dates
@@ -31,7 +31,7 @@ PATH = 'content'
 # found in content/pages/home.md
 # Uncomment the 2 liens below to use a static page as home page
 INDEX_SAVE_AS = 'blog/index.html'
-LINKS = (('blog', 'http://dragosstanciu.com/blog/'),) # add link to blog
+LINKS = (('blog', '/blog/'),) # add link to blog
 
 # Set article URL
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
@@ -106,7 +106,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/dragosstanciu'),
-          ('github', 'https://github.com/dnstanciu'),
+          ('github', '/github'),
           ('twitter', 'https://twitter.com/dnstanciu'),)
 
 MENUITEMS = (('Archives', '/blog/archives.html'),
