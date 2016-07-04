@@ -4,6 +4,9 @@ venv/
 output/
 # Ignore deployment folder
 _build/
+# Ignore devserver settings
+pelican.pid
+srv.pid
 
 
 # Byte-compiled / optimized / DLL files
