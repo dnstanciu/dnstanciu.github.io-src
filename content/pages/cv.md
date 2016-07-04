@@ -10,7 +10,7 @@ Slug: cv
 
 ##### **MRes in Neuroinformatics** - **University of Edinburgh** - 9/2013 - 8/2014
 
-- MRes [Project](https://github.com/dnstanciu/masters-project/): *Graph Theory as an Alzheimer's Disease Diagnostic Instrument in the Context of Functional Brain Connectivity* - study into identifying differences in brain connectivity between Alzheimer's disease patients and healthy subjects (Grade: 75%)
+- MRes [Project](https://github.com/dnstanciu/masters-project/): *Graph Theory as an Alzheimer's Disease Diagnostic Instrument in the Context of Functional Brain Connectivity* - study into identifying differences in brain connectivity between Alzheimer's disease patients and healthy subjects (Grade: 75%).
 - Modules: Data Mining and Exploration, Machine Learning and Pattern Recognition, Probabilistic Modelling and Reasoning.
 
 ##### **BSc in Computer Science** - **University of Essex** - 10/2010 - 7/2013
