@@ -52,9 +52,9 @@ Slug: cv
 
 ### **Languages**
 
-- English - Full professional proficiency
-- French - Limited working proficiency
-- Romanian - Native proficiency
+- English - Full professional proficiency.
+- French - Limited working proficiency.
+- Romanian - Native proficiency.
 
 ### **Awards**
 
