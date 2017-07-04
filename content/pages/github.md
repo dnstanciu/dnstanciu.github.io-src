@@ -1,7 +1,7 @@
 Title: GitHub
 Slug: github
 
-Here you can find an overview of my recent public GitHub changes.
+Here you can find an overview of my recent public [GitHub](https://github.com/dnstanciu) changes.
 
 #### MRes Project at University of Edinburgh
 

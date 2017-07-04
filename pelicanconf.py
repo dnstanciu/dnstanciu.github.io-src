@@ -13,10 +13,11 @@ SITEURL = ''
 ### Flex theme options ###
 ##########################
 SITETITLE = AUTHOR
-SITESUBTITLE = u'PhD student'
+SITESUBTITLE = u'Software Developer'
 SITEDESCRIPTION = u'Dragos Stanciu\'s website'
 SITELOGO = u'/images/profile.png'
-MAIN_MENU = True
+#MAIN_MENU = True
+MAIN_MENU = False
 
 # Times and dates
 DEFAULT_DATE_FORMAT = '%d %b, %Y'
@@ -31,7 +32,7 @@ PATH = 'content'
 # found in content/pages/home.md
 # Uncomment the 2 liens below to use a static page as home page
 INDEX_SAVE_AS = 'blog/index.html'
-LINKS = (('blog', '/blog/'),) # add link to blog
+LINKS = (('Dragon Programmer blog', 'https://dragonprogrammer.com/'),) # add link to blog
 
 # Set article URL
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{slug}/'
@@ -109,9 +110,9 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/dragosstanciu'),
           ('github', '/github'),
           ('twitter', 'https://twitter.com/dnstanciu'),)
 
-MENUITEMS = (('Archives', '/blog/archives.html'),
-             ('Categories', '/blog/categories.html'),
-             ('Tags', '/blog/tags.html'),)
+# MENUITEMS = (('Archives', '/blog/archives.html'),
+#              ('Categories', '/blog/categories.html'))#,
+             #('Tags', '/blog/tags.html'),)
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

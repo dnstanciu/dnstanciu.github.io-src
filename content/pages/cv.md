@@ -1,24 +1,13 @@
 Title: CV
 Slug: cv
 
-### **Education**
-
-##### **PhD student in Robotics** - **University of Edinburgh** - 9/2014 - present
-
-- Visiting student at ETH Zürich, [Vision for Robotics Lab](http://www.v4rl.ethz.ch/).
-- Researching the use of [neuromorphic chips](http://inilabs.com/products/dynamic-vision-sensors/) in robot navigation (C++, Python, MATLAB).
-
-##### **MRes in Neuroinformatics** - **University of Edinburgh** - 9/2013 - 8/2014
-
-- MRes [Project](https://github.com/dnstanciu/masters-project/): *Graph Theory as an Alzheimer's Disease Diagnostic Instrument in the Context of Functional Brain Connectivity* - study into identifying differences in brain connectivity between Alzheimer's disease patients and healthy subjects (Grade: 75%).
-- Modules: Data Mining and Exploration, Machine Learning and Pattern Recognition, Probabilistic Modelling and Reasoning.
-
-##### **BSc in Computer Science** - **University of Essex** - 10/2010 - 7/2013
-
-- Classification: 1st class.
-- Modules: Data Structures and Algorithms, Software Engineering, Object-Oriented Programming, Computer Vision, Natural Language Engineering, Operating Systems.
-
 ### **Employment History**
+
+##### **Research Assistant** - **University of Edinburgh** - 9/2014 - 12/2016
+
+- Academic guest at ETH Zürich, [Vision for Robotics Lab](http://www.v4rl.ethz.ch/).
+- Researching the use of [neuromorphic chips](http://inilabs.com/products/dynamic-vision-sensors/) in robot navigation (C++, Python, MATLAB).
+- Supervised two master students.
 
 ##### **Freelance Web Developer** - **[Len’s Self Storage](http://www.lenlothian.com)** - 4/2016
 
@@ -35,6 +24,18 @@ Slug: cv
 
 - Wrote software for comparing the performance of different feature detectors in computer vision (C++, OpenCV, MATLAB).
 - Implemented image stitching app as part of a two-student team project.
+
+### **Education**
+
+##### **MRes in Neuroinformatics** - **University of Edinburgh** - 9/2013 - 8/2014
+
+- MRes [Project](https://github.com/dnstanciu/masters-project/): *Graph Theory as an Alzheimer's Disease Diagnostic Instrument in the Context of Functional Brain Connectivity* - study into identifying differences in brain connectivity between Alzheimer's disease patients and healthy subjects (Grade: 75%).
+- Modules: Data Mining and Exploration, Machine Learning and Pattern Recognition, Probabilistic Modelling and Reasoning.
+
+##### **BSc in Computer Science** - **University of Essex** - 10/2010 - 7/2013
+
+- Classification: 1st class.
+- Modules: Data Structures and Algorithms, Software Engineering, Object-Oriented Programming, Computer Vision, Natural Language Engineering, Operating Systems.
 
 ### **Projects**
 
