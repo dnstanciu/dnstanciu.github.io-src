@@ -107,7 +107,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/dragosstanciu'),
-          ('github', '/github'),
+          ('github', 'https://github.com/dnstanciu'),
           ('twitter', 'https://twitter.com/dnstanciu'),)
 
 # MENUITEMS = (('Archives', '/blog/archives.html'),
