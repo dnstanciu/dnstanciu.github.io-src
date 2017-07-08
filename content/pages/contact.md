@@ -1,4 +1,4 @@
 Title: Contact
 Slug: contact
 
-Email: `dragos.n.stanciu [at] gmail.com`
+Email: [dragos@dragonprogrammer.com](mailto:dragos@dragonprogrammer.com).

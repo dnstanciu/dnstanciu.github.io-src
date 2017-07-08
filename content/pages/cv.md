@@ -3,6 +3,14 @@ Slug: cv
 
 ### **Employment History**
 
+##### **Software Engineer** - **Avaloq Innovation** - 1/2017 - present
+
+- Training in Regulatory Reporting and market data interfaces.
+- Collaborating with software architects, business analysts, consultants and customers to analyse, design and develop interfaces to third party systems (PL/SQL, Python).
+- Participating in Design Patterns reading group (Java EE).
+- Giving company-wide technical presentations.
+- Mentoring colleagues.
+
 ##### **Research Assistant** - **University of Edinburgh** - 9/2014 - 12/2016
 
 - Academic guest at ETH Zürich, [Vision for Robotics Lab](http://www.v4rl.ethz.ch/).
@@ -16,7 +24,7 @@ Slug: cv
 ##### **Application Development and Maintenance Frontrunner** - **[UK Data Archive](http://www.data-archive.ac.uk)** - 11/2011 - 6/2012
 
 - Wrote unit tests with NUnit and integration tests with Selenium for web apps.
-- Built multithreaded logging service of user activity in C#. Logs were stored in a SQL database.
+- Built multithreaded logging service of user activity (C#, SQL).
 - Performed load testing of logging service using JMeter.
 - Continuous integration with Jenkins, issue tracking with JIRA within a team of 10.
 
