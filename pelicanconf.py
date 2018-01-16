@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import date
 
 # disable caching when changing settings
 LOAD_CONTENT_CACHE = False
@@ -15,7 +16,7 @@ SITEURL = ''
 SITETITLE = AUTHOR
 SITESUBTITLE = u'Software Developer'
 SITEDESCRIPTION = u'Dragos Stanciu\'s website'
-SITELOGO = u'/images/profile.png'
+SITELOGO = u'https://secure.gravatar.com/avatar/9520bffa0515e54859f849fc8b6b99e1?size=400'
 #MAIN_MENU = True
 MAIN_MENU = False
 
@@ -108,7 +109,11 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/dragosstanciu'),
           ('github', 'https://github.com/dnstanciu'),
-          ('twitter', 'https://twitter.com/dnstanciu'),)
+          ('twitter', 'https://twitter.com/dnstanciu'),
+          ('facebook', 'https://www.facebook.com/DragonProgrammer/'),
+          ('youtube', 'https://www.youtube.com/channel/UCvxBX7213FF2JCQC68Dx50A'))
+
+COPYRIGHT_YEAR = date.today().year
 
 # MENUITEMS = (('Archives', '/blog/archives.html'),
 #              ('Categories', '/blog/categories.html'))#,
